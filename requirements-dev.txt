@@ -1,0 +1,4 @@
+black
+pathlib
+ipython
+setuptools

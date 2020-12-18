@@ -1,5 +1,6 @@
 # docs
 docs/_build
+dist/
 
 # python
 **__pycache__**
