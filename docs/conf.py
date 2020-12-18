@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "azure.ml"
-copyright = "2020, Microsoft"
-author = "Microsoft"
+project = "mldiff"
+copyright = "2020, @lostmygithubaccount"
+author = "lostmygithubaccount"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1.0"
@@ -61,9 +61,9 @@ html_theme = "furo"  # pypi theme
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
-#html_theme_options = {
-#    "light_css_variables": {
-#        "color-brand-primary": "#CC66FF",
-#        "color-brand-content": "purple",
-#    },
-#}
+html_theme_options = {
+    "light_css_variables": {
+        "color-brand-primary": "#EE66FF",
+        "color-brand-content": "purple",
+    },
+}

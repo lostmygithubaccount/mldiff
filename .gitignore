@@ -1,0 +1,5 @@
+# docs
+docs/_build
+
+# python
+**__pycache__**
