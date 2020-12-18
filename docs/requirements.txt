@@ -1,0 +1,11 @@
+# basics
+sphinx
+numpydoc
+
+# helpers
+sphinx-copybutton
+sphinx-togglebutton
+
+# themes
+sphinx-rtd-theme
+furo
