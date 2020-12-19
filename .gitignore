@@ -4,3 +4,6 @@ dist/
 
 # python
 **__pycache__**
+
+# codespaces
+.venv
