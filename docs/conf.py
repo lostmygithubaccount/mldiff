@@ -61,6 +61,8 @@ html_theme = "furo"  # pypi theme
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
+html_logo = "atom.png"
+
 html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#EE66FF",
