@@ -65,7 +65,7 @@ html_logo = "atom.png"
 
 html_theme_options = {
     "light_css_variables": {
-        "color-brand-primary": "#EE66FF",
+        "color-brand-primary": "#660066",
         "color-brand-content": "purple",
     },
 }
