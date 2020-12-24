@@ -7,3 +7,6 @@ dist/
 
 # codespaces
 .venv
+
+# mac
+**.DS_STORE**
